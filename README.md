@@ -1,11 +1,11 @@
 # OnionGrower (for Plex)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square)]() [![Requirements Status](https://requires.io/github/MrPlow254/OnionGrower/requirements.svg?branch=master)](https://requires.io/github/MrPlow254/OnionGrower/requirements/?branch=master)
 
-A Plex Server plug-in that auto adds TV Show torrents to download based on [![](Trakt.tv)][trakt.tv] TV Show progress and watchlist.
+A Plex Server plug-in that auto adds TV Show torrents to download based on (Trakt.tv)[trakt.tv] TV Show progress and watchlist.
 
 ### Key Features
  - Automatically download every TV show you watch.
- - Link all your Plex users to individual [![](Trakt.tv)][trakt.tv] profiles.
+ - Link all your Plex users to individual (Trakt.tv)[trakt.tv] profiles.
 
 ### Navigation
 
